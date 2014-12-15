@@ -31,7 +31,6 @@
   * flexibilidade para por em prática novas ideias
  
 
-
 |  Objectivo Técnico        |  Protótipo/Drone  |  Serviço  |  Modelo Negócio  |
 |:-------------------       |:-----------:      |:---------:| ----------------:|
 | Monitorização periódica   | Mission SW  | Produto/serviço final, forma de o fazer | Custos; como vender |
@@ -39,3 +38,17 @@
 | Contagem/identif. plantas | Computer vision(CV) SW  | Serviço online p consultores |   |
 | NDVI | Camara Canon Powershot modificada  |
 | IR vs VIS | Camara Canon Powershot modificada |
+
+####Alguns aspectos/objectivos definidos:
+
+
+* importância de ter/construir rapidamente um protótipo para negociar/angariar parceiros/clientes
+* definição de clientes; o consultor e não o produtor
+* ter/apresentar um produto/protótipo funcional (7/10) --> encontrar/angariar pros que o levem a (10/10)
+* conhecer o mercado, efectuar contactos/entrevistas com vários amigos/conhecidos em diferentes indústrias
+* por enquanto, ficam afastadas pretensões académicas (?)
+* alguns objectivos de curto prazo:
+  1. prototipar camara a adquirir imagens de forma auto
+  2. sw que identifique formas e calcule dimensões
+
+####
