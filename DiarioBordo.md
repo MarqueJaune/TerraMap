@@ -26,3 +26,10 @@
   * tecnologia para fornecer serviço inovador/diferenciador
   * hardware/plataforma necessário apenas para recolha de dados
 
+3 **Legislação**
+  * vazio legal quanto à utilização de drones/UAVs
+  * flexibilidade para por em prática novas ideias
+
+|  Objectivo Técnico  |  Protótipo/Drone  |  Serviço  |  Modelo Negócio  |
+|:------------------- |:-----------:|:---------:| ----------------:|
+| Monitorização periódica |     
