@@ -51,4 +51,14 @@
   1. prototipar camara a adquirir imagens de forma auto
   2. sw que identifique formas e calcule dimensões
 
-####
+####Tarefas:
+* Esteves:
+  1. camera a funcionar; amostragem auto via script
+  2. montar filtro VIS
+* JP:
+  1. recolha de info
+  2. serviços similares em PT ou fora
+* Gurri:
+  1. business/lean canvas
+* Tó:
+  1. correr exemplos identificação de formas simples; medição dimensões pixeis (CV)
