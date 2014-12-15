@@ -29,7 +29,13 @@
 3 **Legislação**
   * vazio legal quanto à utilização de drones/UAVs
   * flexibilidade para por em prática novas ideias
+ 
 
-|  Objectivo Técnico  |  Protótipo/Drone  |  Serviço  |  Modelo Negócio  |
-|:------------------- |:-----------:|:---------:| ----------------:|
-| Monitorização periódica |     
+
+|  Objectivo Técnico        |  Protótipo/Drone  |  Serviço  |  Modelo Negócio  |
+|:-------------------       |:-----------:      |:---------:| ----------------:|
+| Monitorização periódica   | Mission SW  | Produto/serviço final, forma de o fazer | Custos; como vender |
+| Medição calibre da fruta  | Computer vision(CV) SW  | Como expandir a outros contextos |   | 
+| Contagem/identif. plantas | Computer vision(CV) SW  | Serviço online p consultores |   |
+| NDVI | Camara Canon Powershot modificada  |
+| IR vs VIS | Camara Canon Powershot modificada |
