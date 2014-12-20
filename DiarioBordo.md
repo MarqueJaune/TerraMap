@@ -31,13 +31,11 @@
   * flexibilidade para por em prática novas ideias
  
 
-|  Objectivo Técnico        |  Protótipo/Drone  |  Serviço  |  Modelo Negócio  |
-|:-------------------       |:-----------:      |:---------:| ----------------:|
-| Monitorização periódica   | Mission SW  | Produto/serviço final, forma de o fazer | Custos; como vender |
-| Medição calibre da fruta  | Computer vision(CV) SW  | Como expandir a outros contextos |   | 
-| Contagem/identif. plantas | Computer vision(CV) SW  | Serviço online p consultores |   |
-| NDVI | Camara Canon Powershot modificada  |
-| IR vs VIS | Camara Canon Powershot modificada |
+|  Objectivo                                    |  Técnico          |  Serviço  |  Modelo Negócio  |
+| :-------------------------------------------: | :---------------: | :-------: | :--------------: |
+| Monitorização periódica<br>Medição calibre fruta| Protótipo | Produto/serviço final, forma de o fazer | Custos; como vender |
+| NDVI<br>Contagem/identif. plantas              |                  | Como expandir a outros contextos |   | 
+| IR vs VIS | Drone mission SW<br>Comp vision SW<br>Camara Canon Powershot modificada<br>Serviço online p consultores | | |
 
 ####Alguns aspectos/objectivos definidos:
 
@@ -62,3 +60,7 @@
   1. business/lean canvas
 * Tó:
   1. correr exemplos identificação de formas simples; medição dimensões pixeis (CV)
+
+
+  
+
